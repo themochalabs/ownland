@@ -28,7 +28,7 @@
 
     {
       "id": "200212",
-      "title": "PROTECTED x 2, SAILING, LL Boardwalk",
+      "title": "PROTECTED x 2, SALING, LL Boardwalk",
       "location": "Hagen - Moderate [M]",
       "size": "3360 m²",
       "prims": "1153",
@@ -51,8 +51,21 @@
       "description": "SIM EDGE Hillside w/ Waterfront beach, Gorgeous View!",
       "link": "http://maps.secondlife.com/secondlife/Teslin/104/7/25",
       "featured": false
+    },
+
+    {
+      "id": "200214",
+      "title": "UNOBSTRUCTED Hill-Side Terrain! Private!",
+      "location": "BonnyDoon - General [G]",
+      "size": "2048 m²",
+      "prims": "703",
+      "price": "L$4,500 or Rent L$699/week",
+      "image": "img/listing/200214.png",
+      "description": "Hill-Side Terrain, Unobstructed Views, Gorgeous!",
+      "link": "http://maps.secondlife.com/secondlife/BonnyDoon/148/5/39",
+      "featured": false
     }
 
-  ]
 
+  ]
   
