@@ -46,7 +46,7 @@
       "location": "Teslin - Moderate [M]",
       "size": "2048 m²",
       "prims": "703",
-      "price": "L$22,000 or Rent L$899/week",
+      "price": "L$22,000",
       "image": "img/listing/200213.png",
       "description": "SIM EDGE Hillside w/ Waterfront beach, Gorgeous View!",
       "link": "http://maps.secondlife.com/secondlife/Teslin/104/7/25",
@@ -59,7 +59,7 @@
       "location": "BonnyDoon - General [G]",
       "size": "2048 m²",
       "prims": "703",
-      "price": "L$7,500 or Rent L$699/week",
+      "price": "L$7,499",
       "image": "img/listing/200214.png",
       "description": "Hill-Side Terrain, Unobstructed Views, Gorgeous!",
       "link": "http://maps.secondlife.com/secondlife/BonnyDoon/148/5/39",
@@ -72,7 +72,7 @@
       "location": "Holy Moly - General [G]",
       "size": "2048 m²",
       "prims": "703",
-      "price": "L$7,500 or Rent L$699/week",
+      "price": "L$7,499",
       "image": "img/listing/200215.png",
       "description": "Direct Sunset!, Full Water Parcel, Docks, Beach, Gorgeous!",
       "link": "http://maps.secondlife.com/secondlife/Holymoly/94/47/22",
@@ -81,6 +81,7 @@
 
   ]
   
+
 
 
 
