@@ -36,7 +36,7 @@
       "image": "img/listing/200212.png",
       "description": "PROTECTED X 2,  SAILING! SUNSET! PROTECTED SL Boardwalk!",
       "link": "http://maps.secondlife.com/secondlife/Hagen/229/126/25",
-      "featured": true
+      "featured": false
     },
 
 
@@ -83,17 +83,18 @@
       "id": "200216",
       "title": "WATERFRONT! Beach Sand Terrain",
       "location": "Nick Rhodes -  Moderate [M]",
-      "size": "12,496 m²",
-      "prims": "4,290",
-      "price": "L$67,499",
+      "size": "12496 m²",
+      "prims": "4290",
+      "price": "L$67,499 or For Rent $L3,499/Week",
       "image": "img/listing/200216.png",
       "description": "PROTECTED SIM Edge, Waterfront, Beach Sand Terrain",
       "link": "http://maps.secondlife.com/secondlife/Nick%20Rhodes/190/214/27",
-      "featured": false
+      "featured": true
     }
     
   ]
   
+
 
 
 
