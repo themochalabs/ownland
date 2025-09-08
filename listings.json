@@ -1,100 +1,86 @@
 [
     {
-      "id": "200199",
-      "title": "PROTECTED x 2, MARINA! Solang",
-      "location": "Solang - General [G]",
-      "size": "6704 m²",
-      "prims": "2301",
-      "price": "L$54,499",
-      "image": "img/listing/200199.png",
-      "description": "PROTECTED x 2, SAILING! Marina! Sunset Views! RARE!",
-      "link": "http://maps.secondlife.com/secondlife/Solang/235/221/24",
-      "featured": false
-    },
-
-    {
-      "id": "200211",
-      "title": "PROTECTED! Teslin, Coconut Bay #1",
-      "location": "Teslin - Moderate [M]",
+      "id": "200100",
+      "title": "Waterfront with Gorgeous Sunset Views!",
+      "location": "Shipstone - Moderate [M]",
       "size": "2048 m²",
       "prims": "703",
-      "price": "L$16,499",
-      "image": "img/listing/200211.png",
-      "description": "SIM EDGE Hillside w/ Waterfront beach, Gorgeous View!",
-      "link": "http://maps.secondlife.com/secondlife/Teslin/84/18/35",
-      "featured": false
-    },
-
-
-    {
-      "id": "200212",
-      "title": "PROTECTED x 2, SALING, LL Boardwalk",
-      "location": "Hagen - Moderate [M]",
-      "size": "3360 m²",
-      "prims": "1153",
-      "price": "L$27,499",
-      "image": "img/listing/200212.png",
-      "description": "PROTECTED X 2,  SAILING! SUNSET! PROTECTED SL Boardwalk!",
-      "link": "http://maps.secondlife.com/secondlife/Hagen/229/126/25",
-      "featured": false
-    },
-
-
-    {
-      "id": "200213",
-      "title": "PROTECTED! Teslin, Coconut Bay #2",
-      "location": "Teslin - Moderate [M]",
-      "size": "2048 m²",
-      "prims": "703",
-      "price": "L$16,499",
-      "image": "img/listing/200213.png",
-      "description": "SIM EDGE Hillside w/ Waterfront beach, Gorgeous View!",
-      "link": "http://maps.secondlife.com/secondlife/Teslin/104/7/25",
-      "featured": false
-    },
-
-    {
-      "id": "200214",
-      "title": "UNOBSTRUCTED Hill-Side Terrain! Private!",
-      "location": "BonnyDoon - General [G]",
-      "size": "2048 m²",
-      "prims": "703",
-      "price": "L4,999",
-      "image": "img/listing/200214.png",
-      "description": "Hill-Side Terrain, Unobstructed Views, Gorgeous!",
-      "link": "http://maps.secondlife.com/secondlife/BonnyDoon/148/5/39",
-      "featured": false
-    },
-
-    {
-      "id": "200215",
-      "title": "SUNSET! Palm Paradise!, WARM!",
-      "location": "Holy Moly - General [G]",
-      "size": "2048 m²",
-      "prims": "703",
-      "price": "L$4,999",
-      "image": "img/listing/200215.png",
-      "description": "Direct Sunset!, Full Water Parcel, Docks, Beach, Gorgeous!",
-      "link": "http://maps.secondlife.com/secondlife/Holymoly/94/47/22",
-      "featured": false
-    },
-
-    {
-      "id": "200216",
-      "title": "WATERFRONT! Beach Sand Terrain",
-      "location": "Nick Rhodes -  Moderate [M]",
-      "size": "12496 m²",
-      "prims": "4290",
-      "price": "L$67,499 or For Rent $L3,499/Week",
-      "image": "img/listing/200216.png",
-      "description": "PROTECTED SIM Edge, Waterfront, Beach Sand Terrain",
-      "link": "http://maps.secondlife.com/secondlife/Nick%20Rhodes/144/248/25",
+      "price": "L$2,500",
+      "image": "img/listing/Shipstone212.png",
+      "description": "Cheap! Rare Sunset & Sunrise View! Tropical Waterfront!",
+      "link": "http://maps.secondlife.com/secondlife/Shipstone/165/180/35",
       "featured": true
+    },
+
+    {
+      "id": "200101",
+      "title": "Tropical Residential Island *For Sale* Reduced!!",
+      "location": "1. West Bernham - Moderate [M]",
+      "size": "1024 m²",
+      "prims": "351",
+      "price": "L$2,500",
+      "image": "img/listing/WestBernham213.png",
+      "description": "Residential Water Community.Sunset/Sunrise. Beach",
+      "link": "http://maps.secondlife.com/secondlife/West%20Bernham/105/54/38",
+      "featured": false
+    },
+
+
+    {
+      "id": "200102",
+      "title": "Tropical Residential Island*For Sale* Only $2500 WOW",
+      "location": "2. West Bernham - Moderate [M]",
+      "size": "1024 m²",
+      "prims": "351",
+      "price": "L$2,500",
+      "image": "img/listing/WestBernham214.png",
+      "description": "Waterfront Tropical beach with AMAZING Views.",
+      "link": "http://maps.secondlife.com/secondlife/West%20Bernham/138/55/37",
+      "featured": false
+    },
+
+
+    {
+      "id": "200103",
+      "title": "Europa Hills~Rare~ Hilltop~Sunset Views~Affordable!",
+      "location": "Europa - General [G]",
+      "size": "1920 m²",
+      "prims": "659",
+      "price": "L$6,000",
+      "image": "img/listing/EuropaHills215.png",
+      "description": "Live on top of the world! Hilltop. Views. Rare. Gorgeous.",
+      "link": "http://maps.secondlife.com/secondlife/Europa/33/94/62",
+      "featured": false
+    },
+
+    {
+      "id": "200104",
+      "title": "Protected Cobblestone Roadside. Water Views. Private & Quiet.",
+      "location": "Notha - Moderate [M]",
+      "size": "1024 m²",
+      "prims": "351",
+      "price": "L$5,400",
+      "image": "img/listing/Norta216.png",
+      "description": "Endless Ocean Views. 1x Protected Roadside.Sunset.",
+      "link": "http://maps.secondlife.com/secondlife/Notha/225/248/43",
+      "featured": false
+    },
+
+    {
+      "id": "200105",
+      "title": "St. Ethmia Grand Victorian Style Community sim. Gorgeous",
+      "location": "Ethmia - General [G]",
+      "size": "2048 m²",
+      "prims": "703",
+      "price": "L$6,999",
+      "image": "img/listing/Ethmia217.png",
+      "description": "Protected Cobblestone Roadside. Residential or Commercial Storefront.",
+      "link": "http://maps.secondlife.com/secondlife/Ethmia/162/228/85",
+      "featured": false
     }
     
   ]
   
-
 
 
 
