@@ -9,7 +9,7 @@
       "image": "img/listing/Shipstone212.png",
       "description": "Cheap! Rare Sunset & Sunrise View! Tropical Waterfront!",
       "link": "http://maps.secondlife.com/secondlife/Shipstone/165/180/35",
-      "featured": true
+      "featured": false
     },
 
     {
@@ -102,11 +102,25 @@
       "image": "img/listing/WildMutt101.png",
       "description": "PROTECTED Perfect Lot for Commercial OR Residential. Private, Cozy! Nicely Decorated Sim.",
       "link": "http://maps.secondlife.com/secondlife/Wildmutt/176/196/44",
+      "featured": true
+    },
+
+    {
+      "id": "200108",
+      "title": PROTECTED, RARE! Snow Winter Sunset! Train",
+      "location": "Ohno - General [G]",
+      "size": "1312 m²",
+      "prims": "450",
+      "price": "L$18,800",
+      "image": "img/listing/winter01.png",
+      "description": "PROTECTED, Railroad , River View, Roadside. Have it All in one spot. RARE!!! ",
+      "link": "http://maps.secondlife.com/secondlife/Ohno/154/105/93",
       "featured": false
     }
     
   ]
   
+
 
 
 
